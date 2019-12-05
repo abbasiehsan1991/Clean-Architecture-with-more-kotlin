@@ -1,15 +1,22 @@
 # AndroidCleanArchitecture
-## Language Kotlin
+## Language 
+Kotlin
 
-I tried to have an implementation of MVVP and CleanArchitecture together ;)
+Sample Android application based on CleanArchitecture and MVVM pattern for it's presentation layer.
 This app has 3 main layer:
   * Domain
   * Data
   * Presentation
   
-I Created this project by using of 
+I Created this project by using of thses libraries and technologies :
+* CleanArchitecture
+* MVVM Pattern
+* Dagger2
+* Coroutine
+* LiveData
 * DataBinding
-* Room libraries
-* with the power of Dagger :)
-* And I used Coroutine for the first time too :)
+* Room
+
+## Author
+abbasiehsan1991
 
